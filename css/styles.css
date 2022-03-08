@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+main section {
+    position: relative;
+}
+main article {
+
+}
+main p {
+    /* margin-top: 30px; */
+    width: 267px;
+}
+h2{
+    margin-top: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.logo {
+    position: absolute;
+    left: 90px;
+    top: 125px;
+    
+    width: 120px;
+    border-radius: 50%
+}
+.articuloUno {
+    
+    position: absolute;
+    left: 32px;
+    top: 293px;
+}
+.articuloDos {
+    position: absolute;
+    left: 362px;
+    top: 293px;
+}
+.articuloTres {
+    position: absolute;
+    left: 692px;
+    top: 293px;
+}
