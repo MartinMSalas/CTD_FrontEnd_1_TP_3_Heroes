@@ -2,6 +2,13 @@
     margin: 0px;
     box-sizing: border-box;
 }
+header p {
+    background-color: #1CD1B0;
+    font-family: roboto;
+    font-size: 15px;
+
+}
+
 main section {
     position: relative;
 }
@@ -12,18 +19,28 @@ main p {
     /* margin-top: 30px; */
     width: 267px;
 }
+h1 p{
+    padding: 28px 868px 26px 28px;
+    background-color: #00669F;
+    font-size: 40px;
+}
 h2{
-    margin-top: 50px;
+    margin-top: 73px;
     text-transform: uppercase;
     text-align: center;
 }
 .logo {
     position: absolute;
     left: 90px;
-    top: 125px;
+    top: 128px;
     
-    width: 120px;
+    /* width: 120px; */
     border-radius: 50%
+}
+article p{
+    font-family:  Roboto;
+    font-size: 16px;
+    margin-top: 10px;
 }
 .articuloUno {
     
@@ -40,4 +57,12 @@ h2{
     position: absolute;
     left: 692px;
     top: 293px;
+}
+footer{
+    margin-top: 833px;
+    margin-bottom: 1px;
+    font-family: roboto;
+    font-size: 16px;
+    padding: 16px 671px 16px 16px;
+    background-color: #00669F;
 }
