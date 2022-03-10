@@ -6,16 +6,17 @@
     background-color: #1CD1B0;
     font-family: roboto;
     font-size: 15px;
+    width: 1024px;
 
 } 
 
 main section {
-    width: 1200px;
+    width: 1024px;
     height: 600px;
     display: flex;
     justify-content: space-evenly;
     
-    align-items: flex-start;
+    /* align-items: ; */
 }
 article p {
     width: 300px;
@@ -115,4 +116,5 @@ footer{
     font-size: 16px;
     padding: 16px 671px 16px 16px;
     background-color: #00669F;
+    width: 1024px;
 }
